@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "infrastructure-231700",
+  "private_key_id": "ba025677beff3f07c3cf87658765401be9a07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\*******\n-----END PRIVATE KEY-----\n",
+  "client_email": "26403675-compute@developer.gserviceaccount.com",
+  "client_id": "117073208393213454",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/264032675-compute%40developer.gserviceaccount.com"
+}
